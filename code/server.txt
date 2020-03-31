@@ -1,0 +1,255 @@
+self.special_words_assertion_errors = 0
+gm_idx_errors = 0
+persons_mentions_seen = []
+response in server.py code:
+ [(188, 17, 'South_Carolina'), (12, 4, 'South_Carolina'), (0, 10, 'Charleston,_South_Carolina')]
+self.special_words_assertion_errors = 0
+gm_idx_errors = 0
+persons_mentions_seen = ['David Price']
+response in server.py code:
+ [(1561, 4, 'United_States'), (1530, 8, 'Internet'), (1282, 8, 'Internet'), (1773, 8, 'Internet'), (604, 8, 'Internet'), (38, 4, 'AT&T'), (1469, 3, 'Internet_service_provider'), (1209, 3, 'Internet_service_provider'), (321, 3, 'Internet_service_provider')]
+self.special_words_assertion_errors = 0
+gm_idx_errors = 0
+persons_mentions_seen = ['Noam', 'Rotem', 'Some', 'Rotem', 'Rotem', 'Rotem', 'Rotem']
+response in server.py code:
+ [(1242, 9, 'Microsoft'), (606, 9, 'Microsoft'), (1180, 15, 'Windows_Azure')]
+self.special_words_assertion_errors = 0
+gm_idx_errors = 0
+persons_mentions_seen = ['Tim', 'Anurag']
+response in server.py code:
+ [(1069, 3, 'Personally_identifiable_information'), (2994, 3, 'Personally_identifiable_information'), (2119, 3, 'Personally_identifiable_information'), (2406, 3, 'Chief_technology_officer'), (2631, 18, 'Amazon_Web_Services'), (705, 18, 'Amazon_Web_Services'), (2082, 35, 'Personally_identifiable_information')]
+self.special_words_assertion_errors = 0
+gm_idx_errors = 0
+persons_mentions_seen = []
+response in server.py code:
+ [(99, 8, 'Illinois')]
+self.special_words_assertion_errors = 0
+gm_idx_errors = 0
+persons_mentions_seen = ['Read More', 'Some', 'Some']
+response in server.py code:
+ [(3596, 9, 'Kaspersky_Lab'), (1257, 9, 'Singapore'), (4174, 9, 'Kaspersky_Lab'), (52, 9, 'Singapore'), (977, 9, 'Singapore'), (4315, 9, 'Kaspersky_Lab')]
+self.special_words_assertion_errors = 0
+gm_idx_errors = 0
+persons_mentions_seen = ['Rijk']
+response in server.py code:
+ [(1715, 5, 'Netherlands'), (1267, 5, 'Netherlands'), (1472, 5, 'Netherlands'), (1010, 5, 'Netherlands'), (1658, 9, 'Microsoft'), (224, 5, 'Netherlands'), (1102, 9, 'Microsoft'), (75, 5, 'Netherlands'), (1794, 9, 'Microsoft'), (1454, 9, 'Microsoft'), (771, 9, 'Microsoft'), (247, 16, 'Microsoft_Office'), (0, 9, 'Microsoft'), (2002, 25, 'Norwegian_Data_Protection_Authority'), (835, 4, 'Microsoft_Word')]
+self.special_words_assertion_errors = 0
+gm_idx_errors = 0
+persons_mentions_seen = ['Deter', 'Educated', 'Given']
+response in server.py code:
+ [(2596, 5, 'Health_Insurance_Portability_and_Accountability_Act'), (2827, 4, 'Denial-of-service_attack'), (1721, 17, 'Microsoft_Outlook'), (5921, 4, 'Sony')]
+self.special_words_assertion_errors = 0
+gm_idx_errors = 0
+persons_mentions_seen = ['Some', 'Given']
+response in server.py code:
+ [(476, 6, 'Russia'), (376, 5, 'Miami'), (5134, 9, 'Microsoft'), (6422, 5, 'Japan'), (2285, 10, 'Macintosh'), (1461, 5, 'Gmail'), (1567, 10, 'Microsoft_Outlook'), (1479, 11, 'Outlook.com'), (1541, 11, 'Microsoft_Exchange_Server'), (2227, 7, 'Microsoft_Windows'), (1468, 9, 'Yahoo!_Mail'), (1514, 4, 'Post_Office_Protocol')]
+self.special_words_assertion_errors = 0
+gm_idx_errors = 0
+persons_mentions_seen = ['New']
+response in server.py code:
+ [(1953, 9, 'Australia'), (1964, 11, 'New_Zealand'), (1980, 6, 'Canada'), (77, 9, 'Microsoft'), (1995, 9, 'Microsoft'), (748, 7, 'Android_(operating_system)'), (785, 7, 'Android_(operating_system)')]
+self.special_words_assertion_errors = 0
+gm_idx_errors = 0
+persons_mentions_seen = ['Any', 'Darren', 'Alline']
+response in server.py code:
+ [(642, 9, 'Microsoft'), (774, 26, 'Active_Directory')]
+self.special_words_assertion_errors = 0
+gm_idx_errors = 0
+persons_mentions_seen = ['Any', 'Bits', 'Bits']
+response in server.py code:
+ [(1590, 9, 'Microsoft'), (204, 3, 'Advanced_Micro_Devices'), (88, 7, 'Israel'), (1560, 3, 'Advanced_Micro_Devices'), (2150, 3, 'Advanced_Micro_Devices'), (1245, 3, 'Advanced_Micro_Devices'), (2320, 12, 'The_Register'), (0, 3, 'Advanced_Micro_Devices'), (2383, 3, 'Advanced_Micro_Devices'), (2493, 3, 'Advanced_Micro_Devices'), (249, 3, 'Advanced_Micro_Devices'), (1052, 3, 'Advanced_Micro_Devices'), (898, 3, 'Advanced_Micro_Devices'), (1374, 3, 'Advanced_Micro_Devices'), (2825, 3, 'Advanced_Micro_Devices')]
+self.special_words_assertion_errors = 0
+gm_idx_errors = 0
+persons_mentions_seen = ['Some']
+response in server.py code:
+ [(1729, 4, 'United_States'), (1822, 4, 'United_States'), (469, 8, 'United_States'), (691, 8, 'United_States'), (1032, 8, 'United_States'), (1790, 15, 'Windows_Azure'), (309, 9, 'USA_Today'), (275, 4, 'Personal_identification_number')]
+self.special_words_assertion_errors = 0
+gm_idx_errors = 0
+persons_mentions_seen = ['New', 'Buys', 'Page Info', 'Not', 'Not', 'Your', 'Full', 'Full']
+response in server.py code:
+ [(4166, 3, 'Greenwich_Mean_Time'), (4129, 3, 'Greenwich_Mean_Time'), (1888, 7, 'Firefox'), (1708, 5, 'HTTP_Secure'), (2883, 7, 'Firefox'), (1441, 21, 'Certificate_authority'), (1863, 6, 'Fedora_(operating_system)'), (3410, 21, 'Certificate_authority'), (8514, 3, 'Storage_area_network'), (4338, 7, 'Red_Hat')]
+self.special_words_assertion_errors = 0
+gm_idx_errors = 0
+persons_mentions_seen = ['New']
+response in server.py code:
+ [(261, 17, 'South_Carolina'), (84, 14, 'South_Carolina'), (2700, 2, 'South_Carolina')]
+self.special_words_assertion_errors = 0
+gm_idx_errors = 0
+persons_mentions_seen = []
+response in server.py code:
+ [(3477, 11, 'Switzerland'), (333, 17, 'Purdue_University'), (359, 18, 'University_of_Iowa'), (4057, 11, 'Trend_Micro')]
+self.special_words_assertion_errors = 0
+gm_idx_errors = 0
+persons_mentions_seen = ['Wilkinson', 'Under', 'Your']
+response in server.py code:
+ [(2748, 6, 'Google'), (3123, 9, 'Microsoft'), (3846, 6, 'Google'), (231, 8, 'Facebook'), (2699, 6, 'Google'), (91, 5, 'Gmail'), (220, 9, 'Pinterest'), (243, 7, 'Twitter')]
+self.special_words_assertion_errors = 0
+gm_idx_errors = 0
+persons_mentions_seen = ['Some', 'Under']
+response in server.py code:
+ [(1907, 9, 'Microsoft'), (2174, 9, 'Microsoft'), (2163, 9, 'Microsoft'), (2034, 9, 'Microsoft'), (1928, 9, 'Microsoft'), (2567, 9, 'Microsoft'), (1499, 9, 'Microsoft'), (2321, 9, 'Microsoft'), (1419, 9, 'Microsoft'), (2272, 9, 'Microsoft'), (975, 9, 'Microsoft'), (334, 9, 'Microsoft'), (486, 9, 'Microsoft'), (2492, 9, 'Microsoft'), (867, 9, 'Microsoft'), (2974, 9, 'Microsoft'), (1244, 9, 'Microsoft'), (3, 9, 'Microsoft'), (136, 9, 'Microsoft'), (3057, 8, 'Facebook')]
+self.special_words_assertion_errors = 0
+gm_idx_errors = 0
+persons_mentions_seen = ['Which', 'Your', 'James Cameron', 'Cameron', 'Armed']
+response in server.py code:
+ [(166, 10, 'California'), (5712, 4, 'United_States'), (5449, 4, 'United_States'), (77, 11, 'Los_Angeles'), (146, 11, 'Los_Angeles'), (1878, 7, 'Russia'), (4513, 7, 'James_Cameron'), (3914, 7, 'James_Cameron'), (1770, 8, 'Facebook'), (2135, 5, 'Apple_Inc.'), (1780, 6, 'Google'), (4719, 11, 'John_Connor'), (1337, 8, 'Facebook'), (7715, 8, 'Facebook'), (9704, 7, 'Android_(operating_system)'), (7281, 10, 'California'), (28, 11, 'John_Connor'), (101, 11, 'John_Connor'), (3698, 13, 'James_Cameron'), (3235, 5, 'Apple_Inc.'), (11299, 6, 'IPhone'), (5269, 11, 'John_Connor'), (4545, 12, 'Sarah_Connor_(Terminator)'), (4278, 5, 'IPad'), (9063, 5, 'Alexa_Internet'), (4337, 14, 'The_Terminator'), (1762, 6, 'Amazon.com'), (8446, 11, 'Cloud_computing'), (4266, 7, 'IPhone')]
+self.special_words_assertion_errors = 0
+gm_idx_errors = 0
+persons_mentions_seen = []
+response in server.py code:
+ [(187, 17, 'South_Carolina'), (139, 14, 'South_Carolina'), (82, 4, 'South_Carolina'), (72, 8, 'Columbia,_South_Carolina'), (37, 2, 'South_Carolina')]
+self.special_words_assertion_errors = 0
+gm_idx_errors = 0
+persons_mentions_seen = ['Your', 'Your', 'Constant']
+response in server.py code:
+ [(7548, 23, 'Virtual_private_network'), (2910, 4, 'Virtual_private_network'), (6931, 3, 'Virtual_private_network'), (6678, 4, 'Virtual_private_network'), (7424, 4, 'Virtual_private_network'), (2800, 4, 'Virtual_private_network'), (4902, 23, 'Virtual_private_network'), (121, 23, 'Virtual_private_network'), (7052, 3, 'Virtual_private_network'), (3035, 3, 'Virtual_private_network'), (6007, 3, 'Virtual_private_network'), (3194, 3, 'Virtual_private_network'), (2668, 3, 'Virtual_private_network'), (6527, 3, 'Virtual_private_network'), (6827, 3, 'Virtual_private_network'), (485, 3, 'Virtual_private_network'), (983, 3, 'Virtual_private_network'), (2437, 3, 'Virtual_private_network'), (3511, 3, 'Virtual_private_network'), (7466, 3, 'Virtual_private_network'), (5880, 3, 'Virtual_private_network'), (8617, 3, 'Virtual_private_network'), (3800, 3, 'Virtual_private_network'), (6209, 3, 'Virtual_private_network'), (6318, 3, 'Virtual_private_network'), (1957, 3, 'Virtual_private_network'), (1599, 3, 'Virtual_private_network'), (3368, 3, 'Virtual_private_network'), (2409, 3, 'Virtual_private_network'), (4044, 3, 'Virtual_private_network'), (5546, 3, 'Virtual_private_network'), (1712, 4, 'Virtual_private_network'), (5600, 3, 'Virtual_private_network'), (445, 3, 'Virtual_private_network'), (5296, 3, 'Virtual_private_network'), (4467, 3, 'Virtual_private_network'), (305, 3, 'Virtual_private_network'), (894, 3, 'Virtual_private_network'), (8668, 3, 'Virtual_private_network'), (8044, 3, 'Virtual_private_network'), (7656, 3, 'Virtual_private_network'), (2230, 3, 'Virtual_private_network'), (8411, 3, 'Virtual_private_network'), (1415, 3, 'Virtual_private_network'), (4847, 3, 'Virtual_private_network'), (9134, 3, 'Virtual_private_network'), (148, 3, 'Virtual_private_network'), (7089, 3, 'Virtual_private_network'), (6255, 4, 'Hulu'), (4088, 3, 'Local_area_network'), (9327, 3, 'Virtual_private_network'), (6263, 6, 'HBO'), (4123, 3, 'Wide_area_network'), (3844, 3, 'Local_area_network'), (581, 8, 'Internet'), (3879, 3, 'Wide_area_network'), (5680, 5, 'Wi-Fi'), (5747, 5, 'Wi-Fi')]
+self.special_words_assertion_errors = 0
+gm_idx_errors = 0
+persons_mentions_seen = ['Nilsson', 'Considering', 'Diane', 'Marciniak', 'Steve', 'Alexander']
+response in server.py code:
+ [(3256, 11, 'Minneapolis'), (3269, 5, 'Minnesota'), (1067, 15, 'Firefox'), (311, 5, 'Minnesota'), (3170, 24, 'Star_Tribune'), (1008, 7, 'Android_(operating_system)'), (436, 13, 'Google_Chrome'), (1856, 5, 'Minnesota'), (2973, 11, 'Minneapolis'), (2870, 10, 'Windows_XP'), (3058, 4, 'Dell'), (3036, 7, 'Microsoft_Windows'), (3238, 8, 'Portland,_Oregon'), (2907, 7, 'Microsoft_Windows')]
+self.special_words_assertion_errors = 0
+gm_idx_errors = 0
+persons_mentions_seen = ['Your']
+response in server.py code:
+ [(2173, 9, 'Microsoft'), (1520, 11, 'Google_Docs'), (1674, 11, 'Google_Docs')]
+self.special_words_assertion_errors = 0
+gm_idx_errors = 0
+persons_mentions_seen = []
+response in server.py code:
+ [(2433, 3, 'Personal_identification_number'), (1263, 8, 'T-Mobile'), (444, 8, 'T-Mobile'), (2638, 3, 'Personal_identification_number'), (1444, 8, 'T-Mobile'), (1032, 8, 'T-Mobile'), (2442, 8, 'T-Mobile'), (1888, 8, 'T-Mobile')]
+self.special_words_assertion_errors = 0
+gm_idx_errors = 0
+persons_mentions_seen = []
+response in server.py code:
+ [(702, 7, 'Samsung'), (14, 9, 'Microsoft'), (1132, 7, 'Samsung'), (1515, 7, 'Samsung'), (1193, 9, 'Smart_TV'), (491, 17, 'Speech_recognition'), (755, 9, 'Future_plc'), (205, 8, 'Smart_TV')]
+self.special_words_assertion_errors = 0
+gm_idx_errors = 0
+persons_mentions_seen = ['Owners', 'Some', 'Joyce']
+response in server.py code:
+ [(951, 9, 'Microsoft'), (0, 8, 'New_York_City')]
+self.special_words_assertion_errors = 0
+gm_idx_errors = 0
+persons_mentions_seen = ['Terms']
+response in server.py code:
+ [(702, 9, 'Microsoft'), (1236, 9, 'Microsoft'), (1247, 9, 'Microsoft'), (1046, 9, 'Microsoft'), (1200, 4, 'Xbox'), (87, 4, 'Xbox'), (1533, 5, 'Wired_(magazine)'), (1091, 5, 'Steam_(software)')]
+self.special_words_assertion_errors = 0
+gm_idx_errors = 0
+persons_mentions_seen = []
+response in server.py code:
+ [(117, 9, 'Microsoft'), (543, 9, 'Microsoft'), (895, 9, 'Microsoft'), (1733, 9, 'Microsoft'), (1674, 9, 'Microsoft'), (176, 9, 'Microsoft_Windows')]
+self.special_words_assertion_errors = 0
+gm_idx_errors = 0
+persons_mentions_seen = ['Robert Graham', 'Tinder', 'Ali', 'Jake', 'Tarik Saleh', 'Very', 'Such', 'Some', 'Alex', 'Montoya', '___']
+response in server.py code:
+ [(3712, 4, 'United_States'), (2116, 4, 'United_States'), (2171, 5, 'Saudi_Arabia'), (2571, 5, 'Saudi_Arabia'), (2895, 13, 'San_Francisco'), (5347, 3, 'Federal_Bureau_of_Investigation'), (2074, 12, 'Saudi_Arabia'), (3184, 5, 'Saudi_Arabia'), (1734, 13, 'San_Francisco'), (3125, 8, 'LinkedIn'), (3103, 9, 'Microsoft'), (1064, 13, 'Saudi_Arabia'), (4464, 4, 'Central_Intelligence_Agency'), (1141, 7, 'Twitter'), (2284, 7, 'Twitter'), (1765, 7, 'Twitter'), (5522, 8, 'Facebook'), (2544, 7, 'Twitter'), (5051, 9, 'Milwaukee'), (4453, 3, 'National_Security_Agency'), (2929, 8, 'Facebook'), (1906, 7, 'Twitter'), (1007, 7, 'Twitter'), (6317, 16, 'Associated_Press'), (5709, 10, 'Capital_One'), (2942, 5, 'Apple_Inc.'), (2749, 7, 'Twitter'), (3628, 7, 'Twitter'), (3333, 36, 'United_States_Department_of_Homeland_Security')]
+self.special_words_assertion_errors = 0
+gm_idx_errors = 0
+persons_mentions_seen = ['Owners', 'Some', 'Joyce']
+response in server.py code:
+ [(946, 9, 'Microsoft'), (0, 8, 'New_York_City')]
+self.special_words_assertion_errors = 0
+gm_idx_errors = 0
+persons_mentions_seen = ['Some', 'Some']
+response in server.py code:
+ [(2362, 4, 'United_States'), (2775, 9, 'Microsoft'), (3208, 9, 'Microsoft'), (138, 9, 'Microsoft'), (3524, 9, 'Microsoft'), (3369, 9, 'Microsoft'), (2469, 9, 'Microsoft'), (988, 9, 'Microsoft'), (2568, 9, 'Microsoft'), (3576, 9, 'Microsoft'), (449, 9, 'Microsoft'), (2219, 9, 'Microsoft'), (2030, 9, 'Microsoft'), (1483, 9, 'Microsoft'), (3746, 8, 'Facebook'), (204, 3, 'IBM'), (0, 9, 'Microsoft'), (2624, 7, 'Android_(operating_system)'), (1307, 12, 'Gmail'), (1132, 18, 'Microsoft_Exchange_Server'), (44, 7, 'Android_(operating_system)'), (928, 5, 'Gmail'), (2822, 7, 'Dropbox_(service)'), (3250, 7, 'Microsoft_Outlook')]
+self.special_words_assertion_errors = 0
+gm_idx_errors = 0
+persons_mentions_seen = ['Terms']
+response in server.py code:
+ [(267, 9, 'Microsoft'), (1537, 9, 'Microsoft'), (1294, 9, 'Microsoft'), (452, 6, 'Europe'), (0, 9, 'Microsoft'), (1378, 7, 'Redmond,_Washington'), (1752, 7, 'Microsoft_Windows'), (45, 26, 'End-user_license_agreement')]
+self.special_words_assertion_errors = 0
+gm_idx_errors = 0
+persons_mentions_seen = ['Owners', 'Some', 'Joyce']
+response in server.py code:
+ [(1006, 9, 'Microsoft'), (55, 8, 'New_York_City')]
+self.special_words_assertion_errors = 0
+gm_idx_errors = 0
+persons_mentions_seen = ['Your']
+response in server.py code:
+ []
+self.special_words_assertion_errors = 0
+gm_idx_errors = 0
+persons_mentions_seen = ['Your', 'Terms']
+response in server.py code:
+ [(345, 8, 'Dell')]
+self.special_words_assertion_errors = 0
+gm_idx_errors = 0
+persons_mentions_seen = ['Under', 'Edward', 'Edward Snowden', 'Snowden']
+response in server.py code:
+ [(497, 7, 'Comcast'), (1048, 7, 'Comcast'), (2795, 8, 'Facebook'), (2595, 11, 'Tor_(anonymity_network)'), (2722, 11, 'Tor_(anonymity_network)'), (669, 7, 'Comcast'), (2261, 11, 'Tor_(anonymity_network)'), (1165, 7, 'Comcast'), (2106, 11, 'Tor_(anonymity_network)'), (1970, 11, 'Tor_(anonymity_network)'), (1767, 11, 'Tor_(anonymity_network)'), (1326, 7, 'Comcast'), (2083, 3, 'Tor_(anonymity_network)'), (2123, 11, 'Tor_(anonymity_network)'), (2659, 11, 'Tor_(anonymity_network)'), (1808, 3, 'Tor_(anonymity_network)'), (1372, 11, 'Tor_(anonymity_network)'), (2444, 7, 'Comcast'), (48, 11, 'Tor_(anonymity_network)'), (1444, 8, 'Internet'), (1731, 3, 'Tor_(anonymity_network)'), (1400, 3, 'Tor_(anonymity_network)'), (961, 8, 'Internet'), (129, 8, 'Internet'), (2615, 7, 'Comcast'), (1703, 4, 'Internet_service_provider')]
+self.special_words_assertion_errors = 0
+gm_idx_errors = 0
+persons_mentions_seen = ['Owners', 'Some', 'Joyce']
+response in server.py code:
+ [(951, 9, 'Microsoft'), (0, 8, 'New_York_City')]
+self.special_words_assertion_errors = 0
+gm_idx_errors = 0
+persons_mentions_seen = ['Noam', 'Rotem', 'Rotem']
+response in server.py code:
+ [(166, 8, 'United_States'), (258, 9, 'Microsoft'), (1963, 9, 'Microsoft'), (1168, 4, 'Virtual_private_network'), (1854, 4, 'CNET')]
+self.special_words_assertion_errors = 0
+gm_idx_errors = 0
+persons_mentions_seen = ['Nominum', 'Some', 'Browse', 'Full', 'Hong']
+response in server.py code:
+ [(4796, 7, 'Germany'), (4819, 11, 'Netherlands'), (4853, 6, 'Russia'), (4788, 6, 'Canada'), (4895, 9, 'Australia'), (4832, 11, 'Switzerland'), (4888, 5, 'Japan'), (4805, 6, 'France'), (4875, 11, 'South_Korea'), (4868, 5, 'India'), (4931, 12, 'South_Africa'), (4680, 6, 'Europe'), (4782, 4, 'United_States'), (7221, 9, 'Hong_Kong'), (4861, 5, 'China'), (4949, 6, 'Brazil'), (4917, 12, 'Saudi_Arabia'), (3631, 13, 'North_America'), (4906, 9, 'Singapore'), (4665, 13, 'South_America'), (3646, 12, 'Asia-Pacific'), (3623, 6, 'Europe'), (3663, 13, 'South_America'), (4813, 4, 'United_Kingdom'), (4650, 13, 'North_America'), (3747, 8, 'Verisign'), (101, 8, 'Internet'), (3171, 3, 'Domain_Name_System'), (890, 3, 'Domain_Name_System'), (796, 3, 'Domain_Name_System'), (4719, 6, 'Africa'), (1204, 3, 'Domain_Name_System'), (4688, 12, 'Asia-Pacific'), (446, 3, 'Domain_Name_System')]
+self.special_words_assertion_errors = 0
+gm_idx_errors = 0
+persons_mentions_seen = ['Gregg', 'Gregg Steinhafel', 'Steinhafel']
+response in server.py code:
+ [(2978, 4, 'United_States'), (3893, 8, 'Facebook'), (3722, 6, 'Google'), (1902, 6, 'Google'), (3931, 8, 'LinkedIn'), (3712, 8, 'Facebook'), (3090, 6, 'Target_Corporation'), (3913, 7, 'YouTube'), (1892, 8, 'Facebook'), (2622, 6, 'Target_Corporation'), (176, 6, 'PayPal'), (1914, 9, 'Microsoft'), (3922, 7, 'Twitter'), (1382, 6, 'Reddit'), (4316, 11, 'Netherlands'), (1406, 9, 'WordPress'), (1886, 4, 'Dell'), (1592, 7, 'Android_(operating_system)'), (1390, 6, 'Microblogging'), (3309, 5, 'Adobe_Systems'), (2364, 6, 'Target_Corporation'), (3903, 5, 'Gmail'), (1371, 9, 'Pinterest'), (1878, 6, 'Amazon.com'), (4578, 5, 'Adobe_Systems'), (4589, 4, 'Java_(programming_language)'), (601, 8, 'Internet'), (2740, 6, 'Target_Corporation'), (3000, 6, 'Target_Corporation'), (2064, 6, 'Target_Corporation'), (4560, 8, 'Internet')]
+self.special_words_assertion_errors = 0
+gm_idx_errors = 0
+persons_mentions_seen = ['Not', 'Your', 'Long', 'Blu']
+response in server.py code:
+ [(5416, 3, 'Virtual_private_network'), (1325, 3, 'Virtual_private_network'), (6006, 3, 'Virtual_private_network'), (1527, 3, 'Virtual_private_network'), (5547, 3, 'Virtual_private_network'), (1751, 3, 'Virtual_private_network'), (772, 23, 'Virtual_private_network'), (4294, 3, 'Virtual_private_network'), (5650, 3, 'Virtual_private_network'), (4888, 18, 'Domain_Name_System'), (1905, 4, 'Virtual_private_network'), (1037, 3, 'Virtual_private_network'), (5798, 3, 'Virtual_private_network'), (5512, 3, 'Virtual_private_network'), (1948, 3, 'Virtual_private_network'), (1381, 3, 'Virtual_private_network'), (5728, 3, 'Virtual_private_network'), (711, 4, 'Virtual_private_network'), (4063, 3, 'Virtual_private_network'), (5895, 7, 'DNS_hosting_service'), (5, 9, 'United_States'), (2030, 4, 'Virtual_private_network'), (6533, 7, 'China'), (2368, 3, 'Virtual_private_network'), (2565, 3, 'Virtual_private_network'), (765, 3, 'Virtual_private_network'), (5563, 3, 'Domain_Name_System'), (5336, 3, 'Domain_Name_System'), (5594, 3, 'Domain_Name_System'), (3407, 3, 'Virtual_private_network'), (6439, 7, 'Verizon_Communications'), (5146, 3, 'Domain_Name_System'), (4422, 3, 'Internet_service_provider'), (5425, 3, 'Domain_Name_System'), (5763, 3, 'Domain_Name_System'), (6344, 3, 'National_Security_Agency'), (6451, 4, 'AT&T'), (6623, 3, 'Virtual_private_network'), (4302, 3, 'Internet_service_provider'), (5846, 3, 'Domain_Name_System')]
+self.special_words_assertion_errors = 0
+gm_idx_errors = 0
+persons_mentions_seen = ['Hetényi', 'Schoenherr', 'Hetényi', 'Schoenherr', 'Hetényi', 'Eva Glawischnig-Piesczek', 'Glawischnig-Piesczek']
+response in server.py code:
+ [(3034, 8, 'Austria'), (2941, 8, 'Austria'), (3085, 8, 'Facebook'), (2736, 25, 'European_Court_of_Justice'), (2974, 8, 'Facebook'), (3239, 8, 'Facebook'), (2851, 8, 'Facebook'), (1047, 9, 'Hungary'), (3600, 3, 'European_Court_of_Justice'), (4231, 3, 'European_Court_of_Justice')]
+self.special_words_assertion_errors = 0
+gm_idx_errors = 0
+persons_mentions_seen = ['Tim', 'Piyush', 'Piyush Pandey', 'Piyush', 'Piyush Pandey']
+response in server.py code:
+ [(950, 6, 'Oracle_Corporation'), (863, 6, 'Oracle_Corporation'), (1029, 10, 'Electronic_business'), (893, 10, 'Electronic_business'), (1868, 3, 'Enterprise_resource_planning'), (779, 3, 'Enterprise_resource_planning'), (1742, 3, 'Enterprise_resource_planning')]
+self.special_words_assertion_errors = 0
+gm_idx_errors = 0
+persons_mentions_seen = ['Continue', 'Stickers', 'Stickers', 'Fast', 'Manage']
+response in server.py code:
+ [(6446, 7, 'Android_(operating_system)'), (4586, 5, 'MySQL'), (6048, 5, 'Cloud_computing')]
+self.special_words_assertion_errors = 0
+gm_idx_errors = 0
+persons_mentions_seen = ['Owners', 'Some', 'Joyce']
+response in server.py code:
+ [(837, 8, 'San_Francisco_Bay_Area'), (1118, 9, 'Microsoft'), (55, 8, 'New_York_City'), (803, 6, 'San_Francisco_Chronicle'), (771, 3, 'Master_of_Business_Administration'), (744, 3, 'Master_of_Business_Administration')]
+self.special_words_assertion_errors = 0
+gm_idx_errors = 0
+persons_mentions_seen = ['Some', 'Tom', 'Phones']
+response in server.py code:
+ [(5067, 6, 'The_Walt_Disney_Company'), (1766, 9, 'Microsoft'), (518, 8, 'Blizzard_Entertainment'), (511, 5, 'Apple_Inc.'), (3018, 7, 'Security_token'), (280, 9, 'Microsoft'), (5282, 7, 'Netflix'), (5075, 6, 'Viacom'), (5050, 7, 'Netflix'), (1455, 9, 'Bloomberg_L.P.'), (5089, 3, 'HBO'), (4907, 9, 'Bloomberg_L.P.'), (504, 5, 'Adobe_Systems'), (1777, 7, 'Netflix'), (882, 9, 'Bloomberg_L.P.'), (5083, 4, 'AT&T'), (1789, 4, 'Hulu'), (4305, 3, 'HBO'), (5059, 6, 'Amazon.com')]
+self.special_words_assertion_errors = 0
+gm_idx_errors = 0
+persons_mentions_seen = ['New']
+response in server.py code:
+ [(190, 4, 'United_States'), (3788, 4, 'United_States'), (779, 4, 'United_States'), (913, 4, 'United_States'), (1678, 4, 'United_States'), (1020, 9, 'Microsoft'), (2443, 9, 'Microsoft'), (3589, 6, 'Google'), (2532, 15, 'First_Amendment_to_the_United_States_Constitution'), (3560, 8, 'Facebook'), (2422, 4, 'American_Civil_Liberties_Union'), (1993, 4, 'American_Civil_Liberties_Union'), (2549, 4, 'American_Civil_Liberties_Union'), (737, 9, 'Microsoft')]
+self.special_words_assertion_errors = 0
+gm_idx_errors = 0
+persons_mentions_seen = []
+response in server.py code:
+ [(984, 19, 'Akamai_Technologies'), (2625, 17, 'Internet_Explorer'), (1260, 6, 'Akamai_Technologies'), (1184, 6, 'Akamai_Technologies'), (4055, 8, 'Facebook'), (1151, 8, 'Facebook'), (2644, 7, 'Firefox'), (454, 8, 'Internet'), (776, 8, 'Internet'), (2655, 6, 'Google_Chrome'), (1014, 8, 'Internet'), (34, 8, 'Internet'), (1370, 6, 'Akamai_Technologies'), (3462, 11, 'Trash_(computing)'), (815, 6, 'Akamai_Technologies'), (3849, 18, 'Adobe_Flash_Player'), (2122, 6, 'Akamai_Technologies'), (4021, 7, 'ITV3')]
+self.special_words_assertion_errors = 0
+gm_idx_errors = 0
+persons_mentions_seen = [', Doug', 'Your', 'Your']
+response in server.py code:
+ [(1086, 9, 'Microsoft'), (910, 9, 'Microsoft'), (2028, 9, 'Microsoft'), (3, 9, 'Microsoft'), (3510, 5, 'HTTP_Secure'), (3385, 4, 'Hypertext_Transfer_Protocol'), (3345, 5, 'HTTP_Secure'), (4016, 5, 'HTTP_Secure'), (3910, 3, 'Virtual_private_network'), (3468, 4, 'Hypertext_Transfer_Protocol')]
+self.special_words_assertion_errors = 0
+gm_idx_errors = 0
+persons_mentions_seen = ['Tester', 'Scanner', 'Suman']
+response in server.py code:
+ [(695, 3, 'IBM'), (3191, 4, 'Java_(programming_language)'), (3065, 23, 'Border_Gateway_Protocol'), (2208, 3, 'Public-key_infrastructure')]
+self.special_words_assertion_errors = 0
+gm_idx_errors = 0
+persons_mentions_seen = ['Rather']
+response in server.py code:
+ [(3867, 10, 'California'), (3885, 3, 'Internet_of_Things'), (2523, 8, 'Scandal'), (4632, 4, 'Small_and_medium_enterprises'), (3747, 3, 'Internet_of_Things')]

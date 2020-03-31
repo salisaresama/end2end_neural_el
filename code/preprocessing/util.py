@@ -19,7 +19,7 @@ def load_entities_universe():
     entities_universe = set()
     # TODO this path is hardcoded. these mapping files should be transfered in ./data folder
     with open("/home/other_projects/deep_ed/data/generated/nick/"
-              "wikiid2nnid.txt") as fin:
+              "wikiid2nnid.txt", encoding='utf-8') as fin:
         for line in fin:
             ent_id = line.split('\t')[0]
             entities_universe.add(ent_id)
@@ -29,7 +29,7 @@ def load_entities_universe():
 def load_wikiid2nnid(extension_name=None):
     """returns a map from wiki id to neural network id (for the entity embeddings)"""
     wikiid2nnid = dict()   # wikiid is string,   nnid is integer
-    with open(config.base_folder+"data/entities/wikiid2nnid/wikiid2nnid.txt") as fin:
+    with open(config.base_folder+"data/entities/wikiid2nnid/wikiid2nnid.txt", encoding='utf-8') as fin:
         for line in fin:
             ent_id, nnid = line.split('\t')
             wikiid2nnid[ent_id] = int(nnid) - 1  # torch starts from 1 instead of zero
@@ -48,7 +48,7 @@ def load_entity_extension(wikiid2nnid, extension_name):
     filepath = config.base_folder + "data/entities/" + extension_name + "/wikiid2nnid/additional_wikiids.txt"
     max_nnid = max(wikiid2nnid.values())
     assert(len(wikiid2nnid) - 1 == max_nnid)
-    with open(filepath) as fin:
+    with open(filepath, encoding='utf-8') as fin:
         line_cnt = 1
         for line in fin:
             ent_id = line.strip()
@@ -74,7 +74,7 @@ def load_redirections(lowercase=None):
         lowercase = config.lowercase_maps
     wall_start = time.time()
     redirections = dict()
-    with open(config.base_folder + "data/basic_data/wiki_redirects.txt") as fin:
+    with open(config.base_folder + "data/basic_data/wiki_redirects.txt", encoding='utf-8') as fin:
         redirections_errors = 0
         for line in fin:
             line = line.rstrip()
@@ -95,7 +95,7 @@ def load_disambiguations():
     disambiguations_ids = set()
     #disambiguations_titles = set()
     disambiguations_errors = 0
-    with open(config.base_folder + "data/basic_data/wiki_disambiguation_pages.txt") as fin:
+    with open(config.base_folder + "data/basic_data/wiki_disambiguation_pages.txt", encoding='utf-8') as fin:
         for line in fin:
             line = line.rstrip()
             try:
@@ -112,7 +112,7 @@ def load_persons():
     wiki_name_id_map, _ = load_wiki_name_id_map()
     persons_wikiids = set()
     not_found_cnt = 0
-    with open(config.base_folder + "data/basic_data/persons.txt") as fin:
+    with open(config.base_folder + "data/basic_data/persons.txt", encoding='utf-8') as fin:
         for line in fin:
             line = line.strip()
             if line in wiki_name_id_map:
@@ -133,7 +133,7 @@ def load_wiki_name_id_map(lowercase=False, filepath=None):
     if filepath is None:
         filepath = config.base_folder + "data/basic_data/wiki_name_id_map.txt"
     disambiguations_ids = load_disambiguations()
-    with open(filepath) as fin:
+    with open(filepath, encoding='utf-8') as fin:
         for line in fin:
             line = line.rstrip()
             try:
@@ -359,7 +359,7 @@ def custom_p_e_m(cand_ent_num=15, allowed_entities_set=None,
     entityNameIdMap = EntityNameIdMap()
     entityNameIdMap.init_compatible_ent_id()
     incompatible_ent_ids = 0
-    with open(config.base_folder + 'data/basic_data/prob_yago_crosswikis_wikipedia_p_e_m.txt') as fin:
+    with open(config.base_folder + 'data/basic_data/prob_yago_crosswikis_wikipedia_p_e_m.txt', encoding='utf-8') as fin:
         duplicate_mentions_cnt = 0
         clear_conflict_winner = 0  # both higher absolute frequency and longer cand list
         not_clear_conflict_winner = 0  # higher absolute freq but shorter cand list
